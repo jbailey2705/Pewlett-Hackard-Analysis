@@ -6,6 +6,18 @@
 1. Determine the Number of Retiring Employees by Title.
 2. Identify Employees Eligible for the Mentorship Program.
 
+### Resources
+- SQL
+- VSC
+- CSV files:
+[departments.csv](https://github.com/jbailey2705/Pewlett-Hackard-Analysis/files/9634126/departments.csv)
+[dept_employees.csv](https://github.com/jbailey2705/Pewlett-Hackard-Analysis/files/9634127/dept_employees.csv)
+[dept_manager.csv](https://github.com/jbailey2705/Pewlett-Hackard-Analysis/files/9634129/dept_manager.csv)
+[employees.csv](https://github.com/jbailey2705/Pewlett-Hackard-Analysis/files/9634130/employees.csv)
+[salaries.csv](https://github.com/jbailey2705/Pewlett-Hackard-Analysis/files/9634131/salaries.csv)
+[titles.csv](https://github.com/jbailey2705/Pewlett-Hackard-Analysis/files/9634132/titles.csv)
+
+
 ## End Results
 
 ### Retiring Employees by Title
